@@ -1,0 +1,16 @@
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\TiposAnonimos\TiposAnonimos\bin\Debug\net5.0\TiposAnonimos.exe
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\TiposAnonimos\TiposAnonimos\bin\Debug\net5.0\TiposAnonimos.deps.json
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\TiposAnonimos\TiposAnonimos\bin\Debug\net5.0\TiposAnonimos.runtimeconfig.json
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\TiposAnonimos\TiposAnonimos\bin\Debug\net5.0\TiposAnonimos.runtimeconfig.dev.json
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\TiposAnonimos\TiposAnonimos\bin\Debug\net5.0\TiposAnonimos.dll
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\TiposAnonimos\TiposAnonimos\bin\Debug\net5.0\TiposAnonimos.pdb
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\TiposAnonimos\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.csproj.AssemblyReference.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\TiposAnonimos\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\TiposAnonimos\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.AssemblyInfoInputs.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\TiposAnonimos\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.AssemblyInfo.cs
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\TiposAnonimos\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\TiposAnonimos\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.dll
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\TiposAnonimos\TiposAnonimos\obj\Debug\net5.0\refint\TiposAnonimos.dll
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\TiposAnonimos\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.pdb
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\TiposAnonimos\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.genruntimeconfig.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\TiposAnonimos\TiposAnonimos\obj\Debug\net5.0\ref\TiposAnonimos.dll

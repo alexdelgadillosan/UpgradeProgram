@@ -6,10 +6,15 @@ namespace ExtnsnMethods
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("hola comoestas".PrimeraLetraMayuscula());
         }
 
-        public static string PrimeraLetraMayuscula(string frase)
+        
+    }
+
+    public static class StringExtension
+    {
+        public static string PrimeraLetraMayuscula( this string frase)
         {
             char primeraLetra = char.ToUpper(frase[0]);
             string restoFrase = frase.Substring(1);

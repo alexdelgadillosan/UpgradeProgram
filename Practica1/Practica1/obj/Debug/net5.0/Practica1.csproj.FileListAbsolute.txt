@@ -1,0 +1,16 @@
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1\Practica1\bin\Debug\net5.0\Practica1.exe
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1\Practica1\bin\Debug\net5.0\Practica1.deps.json
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1\Practica1\bin\Debug\net5.0\Practica1.runtimeconfig.json
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1\Practica1\bin\Debug\net5.0\Practica1.runtimeconfig.dev.json
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1\Practica1\bin\Debug\net5.0\Practica1.dll
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1\Practica1\bin\Debug\net5.0\Practica1.pdb
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1\Practica1\obj\Debug\net5.0\Practica1.csproj.AssemblyReference.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1\Practica1\obj\Debug\net5.0\Practica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1\Practica1\obj\Debug\net5.0\Practica1.AssemblyInfoInputs.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1\Practica1\obj\Debug\net5.0\Practica1.AssemblyInfo.cs
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1\Practica1\obj\Debug\net5.0\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1\Practica1\obj\Debug\net5.0\Practica1.dll
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1\Practica1\obj\Debug\net5.0\refint\Practica1.dll
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1\Practica1\obj\Debug\net5.0\Practica1.pdb
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1\Practica1\obj\Debug\net5.0\Practica1.genruntimeconfig.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1\Practica1\obj\Debug\net5.0\ref\Practica1.dll

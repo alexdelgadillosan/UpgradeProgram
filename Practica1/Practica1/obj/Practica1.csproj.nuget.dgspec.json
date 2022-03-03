@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexd\\Documents\\GitHub\\UpgradeProgram\\ExtnsnMethods\\ExtnsnMethods\\ExtnsnMethods.csproj": {}
+    "C:\\Users\\alexd\\Documents\\GitHub\\UpgradeProgram\\Practica1\\Practica1\\Practica1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexd\\Documents\\GitHub\\UpgradeProgram\\ExtnsnMethods\\ExtnsnMethods\\ExtnsnMethods.csproj": {
+    "C:\\Users\\alexd\\Documents\\GitHub\\UpgradeProgram\\Practica1\\Practica1\\Practica1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexd\\Documents\\GitHub\\UpgradeProgram\\ExtnsnMethods\\ExtnsnMethods\\ExtnsnMethods.csproj",
-        "projectName": "ExtnsnMethods",
-        "projectPath": "C:\\Users\\alexd\\Documents\\GitHub\\UpgradeProgram\\ExtnsnMethods\\ExtnsnMethods\\ExtnsnMethods.csproj",
+        "projectUniqueName": "C:\\Users\\alexd\\Documents\\GitHub\\UpgradeProgram\\Practica1\\Practica1\\Practica1.csproj",
+        "projectName": "Practica1",
+        "projectPath": "C:\\Users\\alexd\\Documents\\GitHub\\UpgradeProgram\\Practica1\\Practica1\\Practica1.csproj",
         "packagesPath": "C:\\Users\\alexd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexd\\Documents\\GitHub\\UpgradeProgram\\ExtnsnMethods\\ExtnsnMethods\\obj\\",
+        "outputPath": "C:\\Users\\alexd\\Documents\\GitHub\\UpgradeProgram\\Practica1\\Practica1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

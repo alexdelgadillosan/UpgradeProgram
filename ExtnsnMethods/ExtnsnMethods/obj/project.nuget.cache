@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zv7wBaeEw2GMJQHkzdXudlFAcrBVwVuRmyaHYZVBiqwsDd8CUArnT/jMRhkk8snpfWqczTlIEsJiUEKEiOVrTQ==",
+  "dgSpecHash": "tq5CDjGJPUj+4GiUZLCOb66s9BpmK1qkMYJWaHd2Mx0+qGuX5MlhL0jv3eZGdVyWJS0SjpA3A20TJRUmZKJQhg==",
   "success": true,
   "projectFilePath": "C:\\Users\\alexd\\Documents\\GitHub\\UpgradeProgram\\ExtnsnMethods\\ExtnsnMethods\\ExtnsnMethods.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\alexd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
