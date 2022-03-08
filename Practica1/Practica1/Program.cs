@@ -17,10 +17,44 @@ namespace Practica1
             Anon("juan", 20);
             Dnm();
             Console.WriteLine("\n");
+            Console.WriteLine("4");
+            Map<Dulces>val=new Map<Dulces>(3);
+            val[0] = new Dulces("Ricolino", 20);
+            val[1] = new Dulces("Galatea", 10);
+            val[2] = new Dulces("Cheetos", 25);
+            Dulces dulce = val[2]; //indexer
+            dulce.Info();
+            
+            
+            
+           Console.WriteLine("\n");
+            Console.WriteLine("5");
+            val.GetFirst();
+            Console.WriteLine("\n");
             Console.WriteLine("Parte 6");
             Console.WriteLine("Holas1234".Validate());
 
         }
+        public class Dulces : Abs
+        {
+            public Dulces(string vKey, dynamic vValue)
+            {
+                this.Key = vKey;
+                this.Value = vValue;
+            }
+
+            public void Info()
+            {
+                Console.WriteLine("Marca: {0}", Key);
+                Console.WriteLine("Costo: {0}", Value);
+                
+            }
+
+           
+        }
+
+      
+       
         public static string RNumber()
         {
             Random r = new Random();
@@ -70,6 +104,17 @@ namespace Practica1
 
 
     }
+    public  static class DulceExtension 
+    {
+        public static void GetFirst<T>(this Map<T> map) where T : Abs
+        {
+
+            string Key = map[0].Key.ToString();
+            dynamic Value = map[0].Value;
+            Console.WriteLine($"El primer valor del arreglo es {Key} , {Value}");
+
+        }
+    }
 
     public class CustomEx : NullReferenceException
     {
@@ -86,14 +131,14 @@ namespace Practica1
         public dynamic Value { get; set; }
     }
 
-    //Clase Generica donde el parametro T solo permite clases derivadas de 
-    // clase abstracta anteriror
+   
     public class Map<T> where T : Abs
     {
-        Map<Abs> absGen = new Map<Abs>();
-
-        //Propiedad
-        public List<T> list { get; private set; }
+        public T[] arr;
+    public Map(int i)
+        {
+            arr = new T[i];
+        }
 
        
       
@@ -102,17 +147,25 @@ namespace Practica1
 
         public T this[int index]
         {
-            get { return list[index]; }
-            set => list[index] = value;
+            get { return arr[index]; }
+            set => arr[index] = value;
 
         }
-        public T this[string val]
+        public int this[string val]
         {
             get
             {
                 try
                 {
-                    return list.Find(x => x.Key == val);
+                    for (int i = 0; i < arr.Length; i++)
+                    {
+                       if (arr[i].Key == val)
+                        {
+                            return i;
+                        }
+
+                    }
+                    throw new ArgumentOutOfRangeException(val + "  no esta en la lista");
                 }
                 catch (Exception)
                 {
@@ -120,17 +173,7 @@ namespace Practica1
                     throw;
                 }
             }
-            set => list.Find(x => x.Key == val);
-
-
-
-
         }
-
-
-
-
-
     }
 
     public static class RExtension
