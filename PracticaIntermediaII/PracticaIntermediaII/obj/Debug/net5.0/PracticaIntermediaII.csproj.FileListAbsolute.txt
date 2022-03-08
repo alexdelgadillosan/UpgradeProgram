@@ -1,0 +1,16 @@
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\PracticaIntermediaII\PracticaIntermediaII\bin\Debug\net5.0\PracticaIntermediaII.exe
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\PracticaIntermediaII\PracticaIntermediaII\bin\Debug\net5.0\PracticaIntermediaII.deps.json
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\PracticaIntermediaII\PracticaIntermediaII\bin\Debug\net5.0\PracticaIntermediaII.runtimeconfig.json
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\PracticaIntermediaII\PracticaIntermediaII\bin\Debug\net5.0\PracticaIntermediaII.runtimeconfig.dev.json
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\PracticaIntermediaII\PracticaIntermediaII\bin\Debug\net5.0\PracticaIntermediaII.dll
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\PracticaIntermediaII\PracticaIntermediaII\bin\Debug\net5.0\PracticaIntermediaII.pdb
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\PracticaIntermediaII\PracticaIntermediaII\obj\Debug\net5.0\PracticaIntermediaII.csproj.AssemblyReference.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\PracticaIntermediaII\PracticaIntermediaII\obj\Debug\net5.0\PracticaIntermediaII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\PracticaIntermediaII\PracticaIntermediaII\obj\Debug\net5.0\PracticaIntermediaII.AssemblyInfoInputs.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\PracticaIntermediaII\PracticaIntermediaII\obj\Debug\net5.0\PracticaIntermediaII.AssemblyInfo.cs
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\PracticaIntermediaII\PracticaIntermediaII\obj\Debug\net5.0\PracticaIntermediaII.csproj.CoreCompileInputs.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\PracticaIntermediaII\PracticaIntermediaII\obj\Debug\net5.0\PracticaIntermediaII.dll
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\PracticaIntermediaII\PracticaIntermediaII\obj\Debug\net5.0\refint\PracticaIntermediaII.dll
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\PracticaIntermediaII\PracticaIntermediaII\obj\Debug\net5.0\PracticaIntermediaII.pdb
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\PracticaIntermediaII\PracticaIntermediaII\obj\Debug\net5.0\PracticaIntermediaII.genruntimeconfig.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\PracticaIntermediaII\PracticaIntermediaII\obj\Debug\net5.0\ref\PracticaIntermediaII.dll

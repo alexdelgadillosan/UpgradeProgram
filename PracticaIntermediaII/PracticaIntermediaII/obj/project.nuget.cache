@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hYsnKIDY/aXR+0x96hahyXFG0XVmi0WNkJIR2r0btqzakJ6S7CV+HDYiPno9OLEE1s+nF00OfJ33fpCQ+9dkmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexd\\Documents\\GitHub\\UpgradeProgram\\PracticaIntermediaII\\PracticaIntermediaII\\PracticaIntermediaII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexd\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
