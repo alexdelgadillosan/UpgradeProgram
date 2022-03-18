@@ -1,0 +1,16 @@
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\CovCont\CovCont\bin\Debug\net5.0\CovCont.exe
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\CovCont\CovCont\bin\Debug\net5.0\CovCont.deps.json
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\CovCont\CovCont\bin\Debug\net5.0\CovCont.runtimeconfig.json
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\CovCont\CovCont\bin\Debug\net5.0\CovCont.runtimeconfig.dev.json
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\CovCont\CovCont\bin\Debug\net5.0\CovCont.dll
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\CovCont\CovCont\bin\Debug\net5.0\CovCont.pdb
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\CovCont\CovCont\obj\Debug\net5.0\CovCont.csproj.AssemblyReference.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\CovCont\CovCont\obj\Debug\net5.0\CovCont.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\CovCont\CovCont\obj\Debug\net5.0\CovCont.AssemblyInfoInputs.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\CovCont\CovCont\obj\Debug\net5.0\CovCont.AssemblyInfo.cs
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\CovCont\CovCont\obj\Debug\net5.0\CovCont.csproj.CoreCompileInputs.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\CovCont\CovCont\obj\Debug\net5.0\CovCont.dll
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\CovCont\CovCont\obj\Debug\net5.0\refint\CovCont.dll
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\CovCont\CovCont\obj\Debug\net5.0\CovCont.pdb
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\CovCont\CovCont\obj\Debug\net5.0\CovCont.genruntimeconfig.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\CovCont\CovCont\obj\Debug\net5.0\ref\CovCont.dll

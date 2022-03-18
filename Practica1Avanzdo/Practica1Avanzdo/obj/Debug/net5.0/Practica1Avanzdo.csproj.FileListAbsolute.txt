@@ -1,0 +1,16 @@
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1Avanzdo\Practica1Avanzdo\obj\Debug\net5.0\Practica1Avanzdo.csproj.AssemblyReference.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1Avanzdo\Practica1Avanzdo\obj\Debug\net5.0\Practica1Avanzdo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1Avanzdo\Practica1Avanzdo\obj\Debug\net5.0\Practica1Avanzdo.AssemblyInfoInputs.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1Avanzdo\Practica1Avanzdo\obj\Debug\net5.0\Practica1Avanzdo.AssemblyInfo.cs
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1Avanzdo\Practica1Avanzdo\obj\Debug\net5.0\Practica1Avanzdo.csproj.CoreCompileInputs.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1Avanzdo\Practica1Avanzdo\bin\Debug\net5.0\Practica1Avanzdo.exe
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1Avanzdo\Practica1Avanzdo\bin\Debug\net5.0\Practica1Avanzdo.deps.json
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1Avanzdo\Practica1Avanzdo\bin\Debug\net5.0\Practica1Avanzdo.runtimeconfig.json
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1Avanzdo\Practica1Avanzdo\bin\Debug\net5.0\Practica1Avanzdo.runtimeconfig.dev.json
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1Avanzdo\Practica1Avanzdo\bin\Debug\net5.0\Practica1Avanzdo.dll
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1Avanzdo\Practica1Avanzdo\bin\Debug\net5.0\Practica1Avanzdo.pdb
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1Avanzdo\Practica1Avanzdo\obj\Debug\net5.0\Practica1Avanzdo.dll
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1Avanzdo\Practica1Avanzdo\obj\Debug\net5.0\refint\Practica1Avanzdo.dll
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1Avanzdo\Practica1Avanzdo\obj\Debug\net5.0\Practica1Avanzdo.pdb
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1Avanzdo\Practica1Avanzdo\obj\Debug\net5.0\Practica1Avanzdo.genruntimeconfig.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\Practica1Avanzdo\Practica1Avanzdo\obj\Debug\net5.0\ref\Practica1Avanzdo.dll
