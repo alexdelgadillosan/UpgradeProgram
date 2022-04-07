@@ -1,0 +1,16 @@
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\chat\obj\Debug\net5.0\chat.csproj.AssemblyReference.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\chat\obj\Debug\net5.0\chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\chat\obj\Debug\net5.0\chat.AssemblyInfoInputs.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\chat\obj\Debug\net5.0\chat.AssemblyInfo.cs
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\chat\obj\Debug\net5.0\chat.csproj.CoreCompileInputs.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\chat\bin\Debug\net5.0\chat.exe
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\chat\bin\Debug\net5.0\chat.deps.json
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\chat\bin\Debug\net5.0\chat.runtimeconfig.json
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\chat\bin\Debug\net5.0\chat.runtimeconfig.dev.json
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\chat\bin\Debug\net5.0\chat.dll
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\chat\bin\Debug\net5.0\chat.pdb
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\chat\obj\Debug\net5.0\chat.dll
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\chat\obj\Debug\net5.0\refint\chat.dll
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\chat\obj\Debug\net5.0\chat.pdb
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\chat\obj\Debug\net5.0\chat.genruntimeconfig.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\chat\obj\Debug\net5.0\ref\chat.dll

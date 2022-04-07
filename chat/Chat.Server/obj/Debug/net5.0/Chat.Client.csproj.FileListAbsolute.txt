@@ -1,0 +1,14 @@
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\Chat.Server\obj\Debug\net5.0\Chat.Client.csproj.AssemblyReference.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\Chat.Server\obj\Debug\net5.0\Chat.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\Chat.Server\obj\Debug\net5.0\Chat.Client.AssemblyInfoInputs.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\Chat.Server\obj\Debug\net5.0\Chat.Client.AssemblyInfo.cs
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\Chat.Server\obj\Debug\net5.0\Chat.Client.csproj.CoreCompileInputs.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\Chat.Server\obj\Debug\net5.0\Chat.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\Chat.Server\obj\Debug\net5.0\Chat.Client.RazorComponent.input.cache
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\Chat.Server\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\Chat.Server\obj\Debug\net5.0\RazorDeclaration\Pages\Chat.razor.g.cs
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\Chat.Server\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\Chat.Server\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\Chat.Server\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\Chat.Server\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\alexd\Documents\GitHub\UpgradeProgram\chat\Chat.Server\obj\Debug\net5.0\Chat.Client.RazorComponent.output.cache

@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "pYyTP5/wsCLmLTL/TrkULFekwn+pObgqX7qgn85eRcSRadVQ6LrW72E1yze0AAyp23K7JvTn+TOKZacMuIy15A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexd\\Documents\\GitHub\\UpgradeProgram\\chat\\Chat.Server\\Chat.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexd\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.3\\microsoft.aspnetcore.connections.abstractions.6.0.3.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\6.0.3\\microsoft.aspnetcore.http.connections.client.6.0.3.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\6.0.3\\microsoft.aspnetcore.http.connections.common.6.0.3.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\6.0.3\\microsoft.aspnetcore.signalr.client.6.0.3.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\6.0.3\\microsoft.aspnetcore.signalr.client.core.6.0.3.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\6.0.3\\microsoft.aspnetcore.signalr.common.6.0.3.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\6.0.3\\microsoft.aspnetcore.signalr.protocols.json.6.0.3.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\microsoft.extensions.features\\6.0.3\\microsoft.extensions.features.6.0.3.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\system.io.pipelines\\6.0.2\\system.io.pipelines.6.0.2.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\system.text.json\\6.0.2\\system.text.json.6.0.2.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
