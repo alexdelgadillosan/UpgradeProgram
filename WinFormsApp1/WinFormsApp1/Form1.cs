@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 
-//https://stackoverflow.com/questions/71787845/timer-stopping-on-async-button-click
+
 namespace WinFormsApp1
 {   
 
@@ -18,7 +18,7 @@ namespace WinFormsApp1
         public Form1()
         {
             InitializeComponent();
-            timer1.Start();
+            
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -28,39 +28,22 @@ namespace WinFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            textBox1.Text = " ";
+            richTextBox1.Text = "Leyendo...";
             StreamReader sr = new StreamReader(@"C:\Users\alexd\Desktop\lorem.txt");
             var txt =  sr.ReadToEnd();
-            textBox1.Text = txt;
+             richTextBox1.Lines = txt.Split("");
         }
-        private async void button2_Click(object sender, EventArgs e)
+    
+       
+        private async Task button2_Click(object sender, EventArgs e)
         {
 
-            textBox1.Text = " ";
+            richTextBox1.Text = "Leyendo...";
             StreamReader sr = new StreamReader(@"C:\Users\alexd\Desktop\lorem.txt");
-            var txt = await sr.ReadToEndAsync();
-            textBox1.Text = txt;
-
-
+            string text = await sr.ReadToEndAsync();
+            richTextBox1.Lines = text.Split("");
         }
 
-        //private async void button2_Click(object sender, EventArgs e)
-        //{ 
-
-        //      Task.Run(async () =>
-        //    {
-
-        //        StreamReader sr = new StreamReader(@"C:\Users\alexd\Desktop\lorem.txt");
-        //        var txt =  sr.ReadToEndAsync().Result; 
-
-        //         Task.Run(async () =>
-        //        {
-
-        //            textBox1.Invoke(new Action(() => { textBox1.Text = txt; }));
-        //        });
-        //    });
-
-
-        //}
+       
     }
 }
